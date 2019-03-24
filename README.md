@@ -3,5 +3,5 @@ Ability Scalings for Champion Abilities in League of Legends - info from DDragon
 
 Learning to use: 
 - Android Studio/Android Programming
-- JSON (Handling/Receiving)
+- JSON (Handling/Receiving - Riot Games Static Data - Ddragon)
 - Gradle (GSON)
